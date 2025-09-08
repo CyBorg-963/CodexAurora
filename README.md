@@ -64,3 +64,15 @@ This is how persuasion becomes resilience.
 1. Clone the repository:
    ```bash
    git clone https://github.com/CyBorg-963/CodexAurora.git
+
+   ## 🤝 Contributing
+
+We welcome researchers, engineers, ethicists, policymakers, and curious minds.  
+
+Ways to contribute:
+- Submit new **Card experiments** in `/Cards`.  
+- Stress-test Aurora CSI against **P3 techniques** and report findings.  
+- Open Issues for discussions or proposals.  
+- Submit Pull Requests with improvements to documentation, defense logic, or policy alignment.  
+
+Please read `CONTRIBUTING.md` (coming soon) for details.
