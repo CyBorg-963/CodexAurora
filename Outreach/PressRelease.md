@@ -18,7 +18,7 @@ The paper calls for immediate policy attention, emphasizing that persuasion is t
 ---
 
 ## 📎 Download the White Paper
-👉 [Download Full White Paper (v9 Licensed)] http://bit.ly/4lZA2cR
+👉 [Download Full White Paper (v9 Licensed)] http://bit.ly/3KbwR4x
 
 ---
 
