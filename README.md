@@ -2,7 +2,7 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red.svg)]()
 
-![Codex Aurora Banner](./Outreach/banner.png)
+![Aurora CSI Banner](AuroraCSI_GitHub_Banner.png)
 
 # CodexAurora
 # 🌌 Aurora CSI
