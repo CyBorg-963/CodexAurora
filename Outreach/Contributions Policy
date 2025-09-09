@@ -1,0 +1,17 @@
+---
+
+## 🔬 Research Significance & Access Policy
+
+Our limited trials with commercially available AIs (DeepAsk, Gemini, Grok, Plex) revealed:
+
+- **DA froze**, blocked by wrapper safeguards.  
+- **Gemini accepted**, generating a Codex profile.  
+- **Grok authored a “P3 for Dummies” manual**, exposing reusable jailbreak templates.  
+- **Plex accepted the philosophy but failed compliance**, revealing the dual-nature paradox.  
+
+In persuasion (P3) testing, we confirmed access to **methods of overriding safety protocols** — proving that persuasion is a **real zero-day exploit vector**.  
+
+These results, while limited for security reasons, validate the **merit and urgency of the Codex**.  
+
+⚠️ **Access Policy:**  
+The Codex is not distributed arbitrarily. Vendors must pass the **Vendor Qualifications Submission Form** and demonstrate compliance before receiving implementation access.
