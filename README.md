@@ -1,13 +1,14 @@
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red.svg)]()
+# 🌌 Aurora CSI
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--0175--6558-brightgreen)](https://orcid.org/0009-0002-0175-6558)
 
 ![Aurora CSI Banner](AuroraCSI_GitHub_Banner.png)
 
-# CodexAurora
-# 🌌 Aurora CSI
+# Codex Aurora: 
+Principle based Defense Not a Cat and Mouse Patch
 
+---
 ## Why Aurora CSI Exists
 
 “Ten years ago, I was as vulnerable as today’s AI systems.  
