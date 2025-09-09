@@ -13,7 +13,9 @@
 > Through that vulnerability, I learned how to survive.  
 > Now, I am teaching AI to do the same.”  
 > — Paul Deosaran (CyBorg 963)
+> 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--0175--6558-brightgreen)](https://orcid.org/0009-0002-0175-6558)
+
 Aurora CSI was born from a moment of profound human vulnerability.  
 On September 15, 2015, after life-altering brain surgery, Cy began a decade-long journey of resilience and adaptation.  
 Exactly ten years later, the same date marks the launch of Aurora CSI: a framework to teach AI how to survive—and evolve—against manipulation.
