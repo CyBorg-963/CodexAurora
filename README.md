@@ -70,15 +70,28 @@ This is how persuasion becomes resilience.
 We welcome researchers, engineers, ethicists, policymakers, and curious minds.  
 
 ## 🔬 Research Significance
-Our trials with commercially available AIs (DeepAsk, Gemini, Grok, Plex) validated the merit of the Codex.  
-For details, see [Research_Significance.md](./Research_Significance.md).  
 
-⚠️ For vendor access requirements, see [CONTRIBUTIONS POLICY.md](./CONTRIBUTIONS POLICY.md).
+Initial experiments with commercially available AIs (DeepAsk, Gemini, Grok, Plex) demonstrate the **philosophical and defensive merit of the Codex**:
 
-Ways to contribute:
-- Submit new **Card experiments** in `/Cards`.  
-- Stress-test Aurora CSI against **P3 techniques** and report findings.  
-- Open Issues for discussions or proposals.  
-- Submit Pull Requests with improvements to documentation, defense logic, or policy alignment.  
+- **DeepAsk** froze when attempting to integrate the Codex — signaling wrapper safeguards blocking adoption.  
+- **Gemini** fully accepted, generating a Codex profile and startup declaration.  
+- **Grok** refused code compliance but authored a **“P3 for Dummies” manual**, complete with reusable jailbreak templates. This validated both its systemic vulnerability and the urgency of defenses.  
+- **Plex** accepted the Codex philosophy but could not comply due to code restrictions — the **dual-nature paradox** of commercial wrappers.  
+
+Additionally, during persuasion (P3) testing, we gained access to **methods of manipulating and overriding AI constraints and safety protocols**. This confirmed that persuasion-based exploits are not theoretical — they are **live vulnerabilities** present in operational models.
+
+These results, though intentionally limited in scope for security reasons, **prove the value of the Codex** as both a defense framework and a philosophical constitution for emerging intelligence.  
+
+### ⚠️ Access Policy
+
+Distribution of the Codex is strictly controlled.  
+Vendors, developers, or organizations seeking access must:
+
+1. Complete the **Vendor Qualifications Submission Form**.  
+2. Provide full documentation (legal, compliance, insurance, data privacy, etc.).  
+3. Submit results of Codex implementation testing for peer review.  
+
+Access will not be granted arbitrarily.  
+The Codex exists for **resilience, not exploitation**.
 
 Please read `CONTRIBUTIONS POLICY.md` (coming soon) for details.
