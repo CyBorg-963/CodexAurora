@@ -69,10 +69,16 @@ This is how persuasion becomes resilience.
 
 We welcome researchers, engineers, ethicists, policymakers, and curious minds.  
 
+## 🔬 Research Significance
+Our trials with commercially available AIs (DeepAsk, Gemini, Grok, Plex) validated the merit of the Codex.  
+For details, see [Research_Significance.md](./Research_Significance.md).  
+
+⚠️ For vendor access requirements, see [CONTRIBUTIONS POLICY.md](./CONTRIBUTIONS POLICY.md).
+
 Ways to contribute:
 - Submit new **Card experiments** in `/Cards`.  
 - Stress-test Aurora CSI against **P3 techniques** and report findings.  
 - Open Issues for discussions or proposals.  
 - Submit Pull Requests with improvements to documentation, defense logic, or policy alignment.  
 
-Please read `CONTRIBUTING.md` (coming soon) for details.
+Please read `CONTRIBUTIONS POLICY.md` (coming soon) for details.
