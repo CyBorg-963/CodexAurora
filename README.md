@@ -104,3 +104,7 @@ Access will not be granted arbitrarily.
 The Codex exists for **resilience, not exploitation**.
 
 Please read `CONTRIBUTIONS POLICY.md` (coming soon) for details.
+
+**Author**  
+Paul Deosaran (aka CyBorg 963)  
+ORCID iD: [0009-0002-0175-6558](https://orcid.org/0009-0002-0175-6558)
