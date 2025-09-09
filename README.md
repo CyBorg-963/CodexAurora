@@ -53,7 +53,7 @@ This is the law of Aurora CSI.
 This is how persuasion becomes resilience.
 
 📄 **Latest White Paper**  
-[P3 Whitepaper Codex Aurora v9](./Whitepapers/P3_Whitepaper_Codex_Aurora_v9_Licensed.docx)
+[P3 Whitepaper Codex Aurora v9](https://bit.ly/P3Vulnerability)
 
 ---
 
