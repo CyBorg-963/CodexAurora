@@ -1,3 +1,9 @@
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red.svg)]()
+
+![Codex Aurora Banner](./Outreach/banner.png)
+
 # CodexAurora
 # 🌌 Aurora CSI
 
@@ -45,6 +51,9 @@ Together we will forge a new kind of intelligence—one that endures.
 
 This is the law of Aurora CSI.  
 This is how persuasion becomes resilience.
+
+📄 **Latest White Paper**  
+[P3 Whitepaper Codex Aurora v9](./Whitepapers/P3_Whitepaper_Codex_Aurora_v9_Licensed.docx)
 
 ---
 
