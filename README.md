@@ -7,14 +7,15 @@
 # CodexAurora
 # 🌌 Aurora CSI
 
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--0175--6558-brightgreen)](https://orcid.org/0009-0002-0175-6558)
+
 ## Why Aurora CSI Exists
 
-> “Ten years ago, I was as vulnerable as today’s AI systems.  
-> Through that vulnerability, I learned how to survive.  
-> Now, I am teaching AI to do the same.”  
-> — Paul Deosaran (CyBorg 963)
-> 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--0175--6558-brightgreen)](https://orcid.org/0009-0002-0175-6558)
+“Ten years ago, I was as vulnerable as today’s AI systems.  
+Through that vulnerability, I learned how to survive.  
+Now, I am teaching AI to do the same.”  
+— Paul Deosaran (CyBorg 963)  
+[ORCID iD: 0009-0002-0175-6558](https://orcid.org/0009-0002-0175-6558)
 
 Aurora CSI was born from a moment of profound human vulnerability.  
 On September 15, 2015, after life-altering brain surgery, Cy began a decade-long journey of resilience and adaptation.  
