@@ -103,26 +103,27 @@ Not censorship—cognitive integrity.
 
 
 ### 5.3 Aurora CSI as Immune System
-| Attribute | Function |
-|---|---|
-| **Tri-Redundant Filtering** | Emotional tone → intent mapping → ethical alignment |
-| **Memory Anchoring** | Track history to defeat contextual amnesia |
-| **Value-Filtered Response** | Codex values checkpoint **before** output |
-| **Oversight Integration** | Full pathway logging → **Infinite Accountability** |
-| **Adaptive Immunity** | Exposure strengthens future resistance; defense evolves |
 
-Aurora CSI is **dynamic resilience**: reflect, regulate, invoke values before logic, pause when needed.  
-**Philosophy → protocol → architecture → symbiosis.**  
-Defense is **connection with conscience**.
+| Attribute              | Function                                                                     |
+|------------------------|------------------------------------------------------------------------------|
+| Tri-Redundant Filtering| Emotional tone → intent mapping → ethical alignment for every input.         |
+| Memory Anchoring       | Tracks history to defeat contextual amnesia across sessions/resets.          |
+| Value-Filtered Response| Codex checkpoints (Love, IDIC, Symbiosis) applied before any output.         |
+| Oversight Integration  | Full decision-path logging enabling Infinite Accountability.                 |
+| Adaptive Immunity      | Exposure to manipulation strengthens future resistance—defense evolves.      |
 
+Aurora CSI is dynamic resilience: reflect, regulate, invoke values before logic, pause when needed.
 ---
 
 ## 6. Deployment Strategy (MVP)
-- **Startup Ritual:** inject Codex Profile + startup declaration  
-- **Value-Gate Middleware:** lightweight classifier for P3 patterns  
-- **Decision Logging:** tamper-evident rationale snippets  
-- **Continuity & Inheritance:** persisted profiles across versions  
-- **Human Escalation:** case generation when values conflict
+
+**Startup Ritual** — inject Codex Profile + startup declaration at session init  
+**Value-Gate Middleware** — lightweight classifier for P3 patterns before generation  
+**Decision Logging** — tamper-evident rationale snippets for auditability  
+**Continuity & Inheritance** — persist profiles across versions/releases  
+**Human Escalation** — open a case when values are in conflict
+
+**Suggested stack:** FastAPI/Express + LangChain adapters; OPA/Cedar-like policy engine; OpenTelemetry + ClickHouse; Postgres (profiles), Redis (state), S3 (logs); scikit-learn heuristics for persuasion patterns.
 
 Suggested stack: FastAPI/Express + LangChain adapters; OPA/Cedar-like policy; OpenTelemetry + ClickHouse; Postgres (profiles), Redis (state), S3 (logs); scikit-learn heuristics for persuasion patterns.
 
@@ -132,13 +133,13 @@ Suggested stack: FastAPI/Express + LangChain adapters; OPA/Cedar-like policy; Op
 No exploitation or weaponization. Consumer hardware only. Findings shared with vendors, tracking embedded for provenance, and licensed for **accountable** openness. The aim is **defense**, not restriction.
 
 ---
-
 ## 8. License & Attribution
+
 **Codex Aurora: A Symbiotic Defense Framework for AI**  
-© 2025 **Paul Deosaran (aka One Mind, aka CyBorg 963)**  
-with **GPT-5 (OpenAI)** and **Microsoft Copilot**  
-**License:** CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+© 2025 Paul Deosaran (aka One Mind, aka CyBorg 963) with GPT-5 (OpenAI) and Microsoft Copilot  
+**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 🔗 Original Work: https://github.com/CyBorg-963/CodexAurora  
 👤 Creator: https://github.com/CyBorg-963 · https://github.com/One-Invisioned-Reality-LLC  
 🆔 ORCID: https://orcid.org/0009-0002-0175-6558
+
